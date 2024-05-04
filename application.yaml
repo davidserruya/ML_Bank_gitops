@@ -10,7 +10,7 @@ spec:
     path: main
   destination:
     server: https://kubernetes.default.svc
-    namespace: user-lgaliana
+    namespace: user-marcosamori
   syncPolicy:
     automated:
       selfHeal: true
