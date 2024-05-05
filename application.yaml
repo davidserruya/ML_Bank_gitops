@@ -5,12 +5,12 @@ metadata:
 spec:
   project: default
   source:
-1    repoURL: https://github.com/marco-samori/ML_Bank
-2    targetRevision: main
-3    path: main
+    repoURL: https://github.com/marco-samori/ML_Bank
+    targetRevision: main
+    path: main
   destination:
     server: https://apiserver.kub.sspcloud.fr
-4    namespace: user-ppeltier75
+    namespace: user-ppeltier75
   syncPolicy:
     automated:
       selfHeal: true
