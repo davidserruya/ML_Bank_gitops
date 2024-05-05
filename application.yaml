@@ -9,7 +9,7 @@ spec:
     targetRevision: main
     path: main
   destination:
-    server: https://apiserver.kub.sspcloud.fr
+    server: https://kubernetes.default.svc
     namespace: user-ppeltier75
   syncPolicy:
     automated:
