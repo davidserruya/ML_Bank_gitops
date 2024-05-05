@@ -5,7 +5,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/marco-samori/ML_Bank.git
+    repoURL: https://github.com/davidserruya/ML_Bank_gitops.git
     targetRevision: main
     path: main
   destination:
