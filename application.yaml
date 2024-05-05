@@ -7,7 +7,7 @@ spec:
   source:
     repoURL: https://github.com/davidserruya/ML_Bank_gitops.git
     targetRevision: main
-    path: main
+    path: deployment
   destination:
     server: https://kubernetes.default.svc
     namespace: user-ppeltier75
